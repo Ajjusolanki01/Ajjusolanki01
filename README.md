@@ -2,8 +2,7 @@
 - 👀 I’m interested in Full stack devloper
 - 🌱 I’m currently learning  react js
 - 💞️ I’m looking to collaborate on open-source projects and web development initiatives
-- 📫 How to reach me ajjusolanki@gmail.com
-- 😄 Pronouns: He/Him
+- 📫 reach me at ajjusolanki@gmail.com 
 - ⚡ Fun fact: i can e-commerce website build 
 
 <!---
